@@ -1,6 +1,8 @@
 center 
 
 % Hyperswarm 
+
+Hyperswarm is an experimental mdns swarm with a shared distributed state.
                       __
                      // \
                      \\_/ //

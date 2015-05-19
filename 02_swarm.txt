@@ -1,4 +1,6 @@
-center vcenter
+center 
+
+% Swarms
 
      ^^      .-=-=-=-.  ^^
  ^^        (`-=-=-=-=-`)         ^^
@@ -14,6 +16,6 @@ center vcenter
      jgs   (`-=-=-=-=-`)
             `-=-=-=-=-`
 
-
-@asbjornenge
-http://www.asbjornenge.com
+* Everyone's stateful nightmare 
+* Spreading stateful load
+* IMPROVE THE ABSTRACTION!

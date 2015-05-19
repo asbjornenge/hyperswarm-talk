@@ -1,0 +1,18 @@
+center 
+
+% Hyperswarm 
+                      __
+                     // \
+                     \\_/ //
+sjw''-.._.-''-.._.. -(||)(')
+                     '''
+
+* Multicast-dns
+* Hyperemitter
+
+% Tradeoffs
+
+* Same network
+* Eventual consistency
+
+Is reducing THIS friction a good idea?

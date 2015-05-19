@@ -1,0 +1,14 @@
+center
+
+% Microservices 
+
+* Lots of things to keep in mind
+
+Service discovery, service dependencies, centralized logging, 
+loadbalancing, networking, subnets, dns...
+
+* Enterprise solutions; buuu!
+
+* Intelligent services -> simpler framework
+
+> I just want to make my little service and release it into the wild.

@@ -1,4 +1,7 @@
-center vcenter
+center 
+
+% @asbjornenge
+
                _.  
             ;=',_  
            S" .--` 
@@ -9,5 +12,6 @@ center vcenter
     ) |/ \\    
   snd  \\  \ 
         `~ `~
-@asbjornenge
+
 http://www.asbjornenge.com
+System Architect @ Smart Management

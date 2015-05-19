@@ -16,6 +16,6 @@ center
      jgs   (`-=-=-=-=-`)
             `-=-=-=-=-`
 
+* Even worse!
 * Everyone's stateful nightmare 
-* Spreading stateful load
 * IMPROVE THE ABSTRACTION!

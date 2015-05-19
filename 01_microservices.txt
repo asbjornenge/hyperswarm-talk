@@ -2,6 +2,14 @@ center
 
 % Microservices 
 
+   [------]         [------]
+---[ BEEP ]---------[ BOOP ]
+   [------]         [------]
+      |       
+      |          [-------]
+      |----------[ BLARB ]---
+                 [-------]
+
 * Lots of things to keep in mind
 
 Service discovery, service dependencies, centralized logging, 

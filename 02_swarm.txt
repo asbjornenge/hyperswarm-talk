@@ -16,6 +16,10 @@ center
      jgs   (`-=-=-=-=-`)
             `-=-=-=-=-`
 
-* Even worse!
-* Everyone's stateful nightmare 
+* Stateless ftw
+* Unfortunately; state is sometimes unavoidable
+* Unfortunately; We have a few of these
+** Storage service with shards, distributed index, etc.
+** Coordination
+* Stateful nightmare 
 * IMPROVE THE ABSTRACTION! -> make a module!

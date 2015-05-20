@@ -1,0 +1,7 @@
+center
+
+% Use cases
+
+* Auto-discovering, auto-balancing container runner
+* iot
+* drone swarm ?

@@ -10,13 +10,11 @@ center
       |----------[ BLARB ]---
                  [-------]
 
+* Current frameworks; buuu! 
 * Lots of things to keep in mind
 
-Service discovery, service dependencies, centralized logging, 
-loadbalancing, networking, subnets, dns...
+Service discovery, service dependencies, different environments, 
+centralized logging, loadbalancing, networking, subnets, dns...
 
-* Enterprise solutions; buuu!
-
-* Intelligent services -> simpler framework
-
-> I just want to make my little service and release it into the wild.
+* Service != program
+* Intelligent services -> simpler framework ... ?

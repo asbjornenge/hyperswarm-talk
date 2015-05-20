@@ -4,7 +4,6 @@ center
 
 Shared cli pixel canvas.
 
-wifi: somewifi-essid
+DEMO: join wifi ""
 
-$ npm install -g @asbjornenge/hyperdraw
-$ hyperdraw --color red
+First, let's see some code...

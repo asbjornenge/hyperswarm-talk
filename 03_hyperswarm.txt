@@ -9,8 +9,13 @@ Hyperswarm is an experimental mdns swarm with a shared distributed state.
 sjw''-.._.-''-.._.. -(||)(')
                      '''
 
-* Multicast-dns
-* Hyperemitter
+* Multicast-dns (discovery)
+* Hyperemitter (comm. channel)
+** event store
+** commit-log
+** shared state object
+
+http://npm.im/hyperswarm
 
 % Tradeoffs
 

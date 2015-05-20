@@ -19,7 +19,7 @@ center
 * Stateless ftw
 * Unfortunately; state is sometimes unavoidable
 * Unfortunately; We have a few of these
-** Storage service with shards, distributed index, etc.
+** Storage service with shards, distributed index, paralell test runner, etc.
 ** Coordination
 * Stateful nightmare 
 * IMPROVE THE ABSTRACTION! -> make a module!

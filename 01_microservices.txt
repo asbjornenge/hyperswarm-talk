@@ -10,11 +10,11 @@ center
       |----------[ BLARB ]---
                  [-------]
 
-* Current frameworks; buuu! 
+* Small services <-> network
 * Lots of things to keep in mind
 
 Service discovery, service dependencies, different environments, 
-centralized logging, loadbalancing, networking, subnets, dns...
+centralized logging, loadbalancing, networking, dns...
 
-* Service != program
-* Intelligent services -> simpler framework ... ?
+* compose(service) != compose(program)
+* Intelligent services -> more robust framework ... ? 

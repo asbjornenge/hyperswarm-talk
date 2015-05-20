@@ -3,3 +3,5 @@ center
 % DEMO TIME
 
 Nevermind that, let's take it for a spin!
+
+wifi: ""

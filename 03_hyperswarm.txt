@@ -13,7 +13,7 @@ sjw''-.._.-''-.._.. -(||)(')
 * Hyperemitter (comm. channel)
 ** event store
 ** commit-log
-** shared state object
+** "shared" state object
 
 http://npm.im/hyperswarm
 

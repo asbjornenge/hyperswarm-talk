@@ -4,6 +4,4 @@ center
 
 Shared cli pixel canvas.
 
-DEMO: join wifi ""
-
-First, let's see some code...
+Let's see the code!

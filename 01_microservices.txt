@@ -11,10 +11,6 @@ center
                  [-------]
 
 * Small services <-> network
-* Lots of things to keep in mind
-
-Service discovery, service dependencies, different environments, 
-centralized logging, loadbalancing, networking, dns...
-
+* Single purpose
 * compose(service) != compose(program)
 * Intelligent services -> more robust framework ... ? 
